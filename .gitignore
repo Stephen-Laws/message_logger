@@ -19,6 +19,9 @@ install_manifest.txt
 *.la
 *.a
 
+#VScode
+.vscode
+
 *~
 .DS_Store
 
